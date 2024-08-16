@@ -12,6 +12,7 @@ This project analyzes factors influencing whether customers accept driving coupo
 ## Repository Contents
 - `coupons.csv`: Original dataset
 - `Practical Application 5.1 Analysis.ipynb`: Jupyter Notebook with data analysis and visualizations
+- `Practical Application 5.1 Analysis.html`: HTML with data analysis and visualizations
 - `Practical Application 5.1 Readme File.md`: Project summary and findings
 
 ## Conclusion
